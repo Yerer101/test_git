@@ -1,1 +1,1 @@
-sigingin
+logout
